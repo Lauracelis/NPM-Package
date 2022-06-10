@@ -13,8 +13,16 @@
   ],
   "author": "laura celis <lauraceis436@gmail.com>",
   "license": "MIT",
-  "bin":{
-    "random-message": "./bin/global.js"
+  "bin": {
+    "random-message": "bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauracelis/NPM-Package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lauracelis/NPM-Package/issues"
+  },
+  "homepage": "https://github.com/Lauracelis/NPM-Package#readme"
 }
